@@ -1,0 +1,109 @@
+body{
+font-family: "Monsterrat";
+}
+
+#title{
+	background-color: #ff4c68;
+	color: #fff;
+}
+
+h1{
+	font-family: "Monsterrat-Black";
+	font-size: 4rem;
+	line-height: 1.5;
+	font-weight: bold;
+}
+
+h3{
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.container-fluid{
+	padding: 5% 15%;
+}
+
+/* Navigation Bar */
+
+.navbar{
+	padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+	font-weight: bold;
+	font-size: 2.5rem;
+}
+
+.nav-item{
+	padding: 0 18px;
+}
+
+.nav-link{
+	font-size: 1.2rem;
+}
+
+.title-img{
+	width: 80%;
+	transform: rotate(10deg);
+}
+
+.download-button{
+	margin: 10% 3% 10% 0%;
+}
+
+/* Features */
+
+#features{
+	padding: 7% 15%;
+}
+
+.feature-box{
+	text-align: center;
+}
+
+.icon{
+	color: #ef8172;
+	margin-bottom: 1rem;
+}
+
+.icon:hover{
+	color: #ff4c68;
+}
+
+/* Testimonial section */
+
+#testimonials{
+	padding: 7% 15%;
+	text-align: center;
+	background-color: #ef8172;
+	color:#fff;
+}
+
+.testimonial-img{
+	height: 10%;
+	border-radius: 100%;
+	margin: 20px;
+}
+
+/* pricing */
+
+#pricing{
+	padding: 100px;
+}
+
+.pricing-column{
+	padding: 3% 2%;
+}
+
+/* cta */
+#cta{
+	background-color: #ff4c68;
+	color: #fff;
+	padding: 5% 5%;
+	text-align: center;
+}
+
+#footer{
+	text-align: center;
+	padding: 2%;
+}
